@@ -1,1 +1,2 @@
-models/.user.go.swp
+*.swp
+.DS_Store
